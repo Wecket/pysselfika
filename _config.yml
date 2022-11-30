@@ -2,6 +2,10 @@ title: Pysselfika!
 author:
   name: Zen
   email: zen@pysselfika.nu
+description: > # this means to ignore newlines until "show_excerpts:"
+  Pysselsfikas hem på nätet. Ett tillfälle att umgås, pyssla och ha det gött.
+
+show_excerpts: false # set to true to show excerpts on the homepage
 
 markdown: kramdown
 theme: minima
