@@ -1,6 +1,6 @@
 ---
 layout: page
-title: frontpage
+title: 
 permalink: /
 ---
 
@@ -8,9 +8,9 @@ permalink: /
 4 December, 12:00 - 14:00
 
 ## Vart
-Kalasataman Vapaakaupungin Olohuone REDIssä
+[Kalasataman Vapaakaupungin Olohuone REDIssä](https://www.redi.fi/liike/vapaakaupungin-olohuone/)
 
-Vardagsrummet i Redi
+[Vardagsrummet i Redi](https://www.redi.fi/liike/vapaakaupungin-olohuone/)
 
 [Instruktioner att hitta dit](https://www.facebook.com/watch/?v=335275673684691)
 
