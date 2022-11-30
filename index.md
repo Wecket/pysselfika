@@ -1,3 +1,9 @@
+---
+layout: page
+title: frontpage
+permalink: /
+---
+
 ## Nästa gång
 4 December, 12:00 - 14:00
 
