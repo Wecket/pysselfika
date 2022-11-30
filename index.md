@@ -1,5 +1,3 @@
-# Pysselfika!
-
 ## Nästa gång
 4 December, 12:00 - 14:00
 
