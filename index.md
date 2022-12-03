@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Välkommen!
-permalink: /
+layout: default
 ---
 
 ## Nästa gång
