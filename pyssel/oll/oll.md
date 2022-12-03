@@ -1,7 +1,5 @@
 ---
-layout: post
-title: IKEA OBEGRÄNSAD LED lamp!
-permalink: /pyssel/1
+layout: default
 ---
 
 # OBEGRÄNSAD LED Lamp
