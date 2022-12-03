@@ -2,8 +2,10 @@
 layout: default
 ---
 
+#Pysselfika!
+
 ## Nästa gång
-<font size=6>4 December, 12:00 - 14:00</font>
+4 December, 12:00 - 14:00
 
 ## Vart
 [Kalasataman Vapaakaupungin Olohuone REDIssä](https://www.redi.fi/liike/vapaakaupungin-olohuone/)
