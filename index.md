@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Nästa gång
-4 December, 12:00 - 14:00
+18 December, 12:00 - 14:00
 
 ## Vart
 [Kalasataman Vapaakaupungin Olohuone REDIssä](https://www.redi.fi/liike/vapaakaupungin-olohuone/)
