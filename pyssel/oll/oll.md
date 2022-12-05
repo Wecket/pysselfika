@@ -16,6 +16,8 @@ Unlike [FREKVENS](https://www.ikea.com/se/sv/p/frekvens-led-multibelysning-svart
 
 But the size and the microphone is the only difference between these two products at a quick glance, so hopefully having some knowledge how to rebuild FREKVENS will help me with OBEGRÄNSAD.
 
+---
+
 ## Teardown
 
 OBEGRÄNSAD is more difficult than normal to open up. It has rivets all around the sides holding the backpanel in place.
@@ -80,6 +82,7 @@ Here we can also see that the SCT2024 chip comes in four different configuration
 ![Close up of SCT2024](5.jpg)
 ![Wide shot showing all 4 of the chips on a panel](6.jpg)
 
+---
 
 ## Planned modifications
 
@@ -93,6 +96,7 @@ This should power it with 5V and enable it to send serial data to all the SCT202
 
 If that is all we would need to do, we could cut open a "small" hole at the bottom, solder on a pin connector, connect our IC of choice to those and attach a switch on the 5V so we can turn it off if we want the original functionality back.
 
+---
 
 ## Final thougts
 
